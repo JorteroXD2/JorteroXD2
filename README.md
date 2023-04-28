@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JorteroXD2
+- 👀 I’m interested in 3DS homebrew 
+- 🌱 I’m currently learning Lua
+- 💞️ I’m on a collaboration about Sonic Unleashed 3DS
